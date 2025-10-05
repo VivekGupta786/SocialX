@@ -1,4 +1,8 @@
-# SocialX - Social Media Application Project Report
+# SocialX - Social Network Application
+
+<p align="center">
+  <img src="./assets/social_app_logo.jpg" alt="AI Health Consultant Logo" width="200"/>
+</p>
 
 ## Table of Contents
 1. [Introduction of Project](#1-introduction-of-project)
@@ -693,4 +697,5 @@ SocialX successfully implements a modern social media platform that meets the re
 
 ### Appendix D: Test Results
 [Detailed test results and analysis] 
+
 
